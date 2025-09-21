@@ -1,4 +1,4 @@
-hi! i like to write code sometimes...
+hi! i am in love with programming.
 
 favorite languages:
 1. C#
